@@ -1,5 +1,5 @@
 import os
-dirname = os.path.dirname("/home/anderson/Documentos/Programação/adventCode2022/input/")
+dirname = os.path.dirname("/home/anderson/Documentos/Programação/2022/day1/")
 filename = os.path.join(dirname, 'day1.txt')
 
 
